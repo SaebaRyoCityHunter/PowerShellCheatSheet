@@ -4,8 +4,8 @@ Ce document contient une liste des commandes PowerShell les plus couramment util
 
 ## Table des matières
 
-- [Les fonctions PowerShell](#les-fonctions-powershell)
-- [Les commandes PowerShell](#les-commandes-powershell)
+- [Les fonctions PowerShell](les-fonctions-powershell.md)
+- [Les commandes PowerShell](les-commandes-powershell.md)
 
 ---
 
