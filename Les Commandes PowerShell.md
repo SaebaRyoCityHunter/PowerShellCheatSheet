@@ -9,6 +9,7 @@ La liste ci-dessous contient les commandes PowerShell disponibles nativement dan
 ## Liste des commandes PowerShell (v7.0^)
 
 | Commandes PowerShell            | Description                                                  |
+| :------------------------------ | :----------------------------------------------------------- |
 | Add-Content                     | Ajoute du contenu à un élément                               |
 | Add-History                     | Ajoute des éléments à l'historique de la session             |
 | Add-Member                      | Ajoute des membres à un objet                                |
